@@ -1,4 +1,5 @@
 # Instagram-clone-Frontend
+Explore the Instagram clone, interact with the user interface, follow and unfollow, and experience a simplified chat feature on the contact page.
 This project is an attempt to recreate the core features of Instagram, one of the most popular social media platforms globally. The clone includes a responsive and visually appealing user interface, featuring elements such as a navigation sidebar, user bio section, gallery, and a chat page. 
 
 Key Features:
@@ -19,6 +20,4 @@ HTML5 for structuring the web pages.
 CSS3 for styling and responsiveness.
 JavaScript for adding interactivity, such as follow/unfollow functionality and contact page .
 
-Usage:
-Explore the Instagram clone, interact with the user interface, follow and unfollow, and experience a simplified chat feature on the contact page.
 
